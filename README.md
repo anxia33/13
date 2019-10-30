@@ -19,7 +19,7 @@
 -
 暂无
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](聊天室 URL)### Tools
+
 
 #### Grunt
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
